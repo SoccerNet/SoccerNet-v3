@@ -1,4 +1,4 @@
-# SoccerNetv3-private
+# SoccerNetv3
 
 This repository contains a generic dataloader for the SoccerNet-v3 annotations and data. It allows to load the images in any chosen resolution, and parses the json annotation files to retrieve the bounding boxes, lines and correspondences between bounding boxes in a ready-to-use format. This repository also provides a tool to visualize the annotations on the images and a function to produce the statistics of the annotations as described in the paper.
 
@@ -94,12 +94,13 @@ See the [AUTHORS](AUTHORS) file for details.
 
 ## License
 
-This repository is shared only with the reviewers during the reviewing process.
-Upon publication, the License will be a MIT License. 
 See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 * Anthony Cioppa is funded by the FRIA, Belgium.
 * This work is supported by the DeepSport and TRAIL projects of the Walloon Region, at the University of Liège (ULiège), Belgium.
-* This work is also supported by the King Abdullah University of Science and Technology (KAUST) Office of Sponsored Research (OSR).
+* This work was supported by the Service Public de Wallonie (SPW) Recherche under the DeepSport project and Grant No.326
+2010235 (ARIAC by https://DigitalWallonia4.ai)
+* This work is also supported by the King Abdullah University of Science and Technology (KAUST) Office of Sponsored Research (OSR) (award327
+OSR-CRG2017-3405).
