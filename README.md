@@ -1,4 +1,4 @@
-# SoccerNetv3
+# SoccerNet-v3
 
 This repository contains a generic dataloader for the SoccerNet-v3 annotations and data. It allows to load the images in any chosen resolution, and parses the json annotation files to retrieve the bounding boxes, lines and correspondences between bounding boxes in a ready-to-use format. This repository also provides a tool to visualize the annotations on the images and a function to produce the statistics of the annotations as described in the paper.
 
